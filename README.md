@@ -14,6 +14,6 @@ id,email,name,department,hours_worked,rate
 1,alice@example.com,Alice Johnson,Marketing,160,50
 2,bob@example.com,Bob Smith,Design,150,40
 
-Как запустить
+##  Как запустить
 
 python main.py data1.csv data2.csv --report payout
